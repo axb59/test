@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# myscripts
+activeMobbers.json
+activeMobbers.py
